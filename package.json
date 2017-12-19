@@ -1,0 +1,26 @@
+{
+  "name": "@matthieulemoine/liner",
+  "version": "1.0.0",
+  "description": "Show specific lines in a file.",
+  "main": "index.js",
+  "bin": {
+    "liner": "index.js"
+  },
+  "author": "MatthieuLemoine",
+  "license": "MIT",
+  "dependencies": {
+    "split": "^1.0.1",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "prettier": "^1.9.1",
+    "prettier-eslint": "^8.2.5",
+    "prettier-eslint-cli": "^4.4.2"
+  },
+  "repository": "git@github.com:MatthieuLemoine/liner"
+}
