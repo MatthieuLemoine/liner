@@ -1,7 +1,7 @@
 {
   "name": "@matthieulemoine/liner",
   "version": "1.0.0",
-  "description": "Show specific lines in a file.",
+  "description": "Show a specific line from a file.",
   "main": "index.js",
   "bin": {
     "liner": "index.js"

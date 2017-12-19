@@ -1,6 +1,6 @@
 # Liner
 
-Show specific lines in a file.
+Show a specific line from a file.
 
 ## Install
 
@@ -18,4 +18,3 @@ liner -l <lineNumber> -C <numberOfLinesToShow> <file>
 
 * l : line to show (required)
 * C : number of lines to show (optional)
-
